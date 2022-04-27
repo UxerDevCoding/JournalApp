@@ -22,3 +22,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Styles
+
+npm install bootstrap
+
+npm add -D sass-loader@10 sass
